@@ -1,0 +1,10 @@
+{
+  "description": "Manage single-store retail operations with real-time billing, inventory, sales analytics, stock alerts, and profit tracking in a responsive admin dashboard.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
